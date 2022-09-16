@@ -5,6 +5,16 @@
   font-family: sans-serif;
 }
 
+footer{
+  width: 100%;
+  background-color: black;
+}
+
+.footertext{
+color: white;
+
+}
+
 
 h1
 {
