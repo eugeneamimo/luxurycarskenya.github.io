@@ -514,7 +514,7 @@ input[type=submit]:hover {
 @media screen and (max-width: 650px) {
   .bg-imagereviews {
     display: block;
-    height: 310%;
+    height: 400%;
     background-size: cover;
     left: 0;
     right: 0;
@@ -550,13 +550,7 @@ input[type=submit]:hover {
   width: 260px;
 }
 
-@media screen and (max-width: 650px) {
-  .card {
-    width: 90%;
-    display: block;
-    
-  }
-}
+
 
 .card:hover{
   opacity: 80%;
