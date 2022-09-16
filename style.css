@@ -417,6 +417,13 @@ input[type=submit]:hover {
   
 }
 
+@media screen and (max-width: 650px) {
+  .container1 {
+  width: 100%;
+  }
+}
+
+
 /* ABOUT PAGE STYLING */
 
 .bg-imageabout {
