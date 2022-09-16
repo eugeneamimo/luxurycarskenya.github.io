@@ -10,9 +10,11 @@ footer{
   background-color: rgb(0, 0, 0);
   margin-top: 20px;
   display: block;
- margin-left: 0;
- margin-right: 0;
+  left: 0;
+  right: 0;
 }
+
+
 
 .footertext{
 color: white;
