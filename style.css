@@ -514,7 +514,7 @@ input[type=submit]:hover {
 @media screen and (max-width: 650px) {
   .bg-imagereviews {
     display: block;
-    height: 400%;
+    height: 350%;
     background-size: cover;
     left: 0;
     right: 0;
