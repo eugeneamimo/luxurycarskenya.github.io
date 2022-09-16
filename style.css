@@ -681,9 +681,16 @@ top: 70%;
   background-color: lightseagreen;
 }
 
+.link{
+  color: white;
+
+}
 
 
+.link:hover{
 
+  color:lightskyblue ;
+}
 
 
 
