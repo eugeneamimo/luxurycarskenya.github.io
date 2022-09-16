@@ -428,7 +428,7 @@ input[type=submit]:hover {
 
 @media screen and (max-width: 650px) {
   .bg-imageabout {
-    height: 110%;
+    height: 130%;
     background-size: cover;
     background-position: center;
     
