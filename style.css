@@ -671,11 +671,12 @@ top: 70%;
 
 /*style the "view" button */
 .button {
-  border: none;
+  border: 1px solid black;
   outline: 0;
   display: inline-block;
   padding: 8px;
   color: white;
+  border-radius: 5px;
   background-color:rgb(66, 66, 248);
   text-align: center;
   cursor: pointer;
