@@ -379,11 +379,19 @@ body, html {
   height: 100%;
 }
 
+  .animate__animated.animate__backInLeft{
+animation-duration: 3s;
+text-align: center;
+display: block;
+
+  }
+
+
 /* (Contacts FORM)Style inputs with type="text", select elements and textareas */
 input[type=text], select, textarea {
   width: 100%; /* Full width */
   padding: 12px; 
-  border: 2px solid rgb(66, 66, 248) ; /* Gray border */
+  border: 2px solid black ; /* Gray border */
   border-radius: 4px; /* Rounded borders */
   box-sizing: border-box; /* Make sure that padding and width stays in place */
   margin-top: 6px; /* Add a top margin */
