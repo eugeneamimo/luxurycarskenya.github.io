@@ -3,6 +3,7 @@
 	padding: 0;
 	text-decoration: none;
   font-family: sans-serif;
+  
 }
 
 footer{
@@ -77,7 +78,7 @@ p{
 	text-align: justify;
 	margin-top: 10px;
 	font-size: 18px;
-  font-weight: 500;
+  font-weight: 300;
   word-spacing: 0.5px;
 
 
